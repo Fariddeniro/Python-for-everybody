@@ -13,3 +13,4 @@ for line in handle:
 sortdb=sorted(db.items())
 for k, v in sortdb:
     print(k, v)
+    
