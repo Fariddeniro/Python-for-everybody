@@ -14,4 +14,8 @@ for line in handle:
 sortdb = sorted(db.items())
 for k, v in sortdb:
     print(k, v)
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> 4454908c1bc9d6a5d738ca602942be1f5f40ffd9
