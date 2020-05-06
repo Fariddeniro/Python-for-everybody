@@ -7,4 +7,4 @@ total=0
 no = re.findall('[0-9]+', lines)
 for i in range(0, len(no)):
     total=total+int(no[i])
-print(total)
+print(total) 
