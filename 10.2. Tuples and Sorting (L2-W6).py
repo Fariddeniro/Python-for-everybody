@@ -8,8 +8,8 @@ for line in handle:
     if line.startswith('From '):
         ly = line.rstrip()
         words = ly.split()
-        HR = words[5].split(':')
-        hour = HR[0]
+        hr = words[5].split(':')
+        hour = hr[0]
         db[hour] = db.get(hour, 0)+1
 sortdb = sorted(db.items())
 for k, v in sortdb:
