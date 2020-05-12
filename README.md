@@ -1,1 +1,1 @@
-In this folder you can find many of the solutions for assignments in "Python for Everybody" course in coursera.
+In this folder you can find many of the solutions for assignments in "Python for Everybody" course in Coursera.
